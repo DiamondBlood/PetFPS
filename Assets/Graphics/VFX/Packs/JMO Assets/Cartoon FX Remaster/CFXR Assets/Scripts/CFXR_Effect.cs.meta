@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Graphics/VFX/Packs/JMO Assets/Cartoon FX Remaster/CFXR Assets/Scripts/CFXR_Effect.cs.meta
+guid: 9205bc1bbacc90040a998067b5643d16
+========
+guid: 04efd1cc0f5c31c4da57d931c6665976
+>>>>>>>> models:Assets/Graphics/VFX/Packs/JMO Assets/Cartoon FX Remaster/CFXR Assets/Scripts/CFXR_Effect.CameraShake.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

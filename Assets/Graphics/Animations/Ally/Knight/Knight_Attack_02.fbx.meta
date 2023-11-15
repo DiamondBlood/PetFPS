@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 423a12f7ca8017045b4ac998711142ee
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Knight_Attack_02
+      takeName: Knight_Attack_02
+      internalID: 7938850310863205841
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: -40
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Ally_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_UpperLeg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_UpperLeg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_LowerLeg_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_LowerLeg_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Spine_01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Spine_02
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_UpperArm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_UpperArm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_LowerArm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_LowerArm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ally_Spine_03
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Knight_01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Knight_Armature
+      parentName: Knight_01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Ally_Root
+      parentName: Knight_Armature
+      position: {x: -0, y: 0.001645248, z: 1.0559338e-10}
+      rotation: {x: 1, y: -0.0000001414675, z: 0.000000075497894, w: 0.00000014901161}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Ally_Hips
+      parentName: Ally_Root
+      position: {x: 5.9950217e-10, y: 0.0013580689, z: -0.0064164363}
+      rotation: {x: -0.6929929, y: -0.0000000058403202, z: -0.000000106780234, w: 0.7209444}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Ally_Spine_01
+      parentName: Ally_Hips
+      position: {x: -0, y: 0.0017834483, z: -1.8626347e-11}
+      rotation: {x: 0.0012145936, y: 1.5560886e-12, z: -1.6660362e-10, w: 0.9999993}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Ally_Spine_02
+      parentName: Ally_Spine_01
+      position: {x: 1.5543122e-17, y: 0.0021933094, z: 4.656623e-11}
+      rotation: {x: 0.0072358926, y: -0.000000001850913, z: -0.0000000010059131, w: 0.99997383}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Ally_Spine_03
+      parentName: Ally_Spine_02
+      position: {x: 7.771561e-18, y: 0.00163583, z: 2.328317e-11}
+      rotation: {x: -0.016805831, y: 0.000000029852433, z: 0.0000000018656647, w: 0.9998588}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Ally_Neck
+      parentName: Ally_Spine_03
+      position: {x: 6.133982e-17, y: 0.0025254146, z: -2.5611308e-11}
+      rotation: {x: 0.2264682, y: -0.000000022008958, z: -0.000000023496774, w: 0.97401863}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: Ally_Head
+      parentName: Ally_Neck
+      position: {x: -1.3766766e-16, y: 0.00046897162, z: -3.35276e-10}
+      rotation: {x: -0.23756638, y: 0.000000006926716, z: 0.000000028322255, w: 0.9713713}
+      scale: {x: 1, y: 0.99999994, z: 0.9999994}
+    - name: Ally_Head_end
+      parentName: Ally_Head
+      position: {x: -0, y: 0.0041843737, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Shoulder_L
+      parentName: Ally_Spine_03
+      position: {x: -0.00077165465, y: 0.0018328894, z: -0.000011063244}
+      rotation: {x: 0.64479214, y: -0.37107968, z: 0.5297993, w: 0.407254}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000004}
+    - name: Ally_UpperArm_L
+      parentName: Ally_Shoulder_L
+      position: {x: -0.000036609385, y: 0.0011988368, z: -0.00037853888}
+      rotation: {x: -0.20045196, y: 0.08718901, z: 0.09760665, w: 0.97092235}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000002}
+    - name: Ally_LowerArm_L
+      parentName: Ally_UpperArm_L
+      position: {x: 4.6566126e-11, y: 0.0032649245, z: 4.8603396e-11}
+      rotation: {x: -0.0022072636, y: -0.0929958, z: -0.0717474, w: 0.9930756}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1.0000005}
+    - name: Ally_Hand_L
+      parentName: Ally_LowerArm_L
+      position: {x: -1.3038516e-10, y: 0.0020014332, z: 8.684583e-10}
+      rotation: {x: 0.0029159333, y: 0.06312954, z: 0.063255, w: 0.99599445}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.9999999}
+    - name: Ally_Hand_L_end
+      parentName: Ally_Hand_L
+      position: {x: -0, y: 0.0017817136, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_ShoulderPad_L
+      parentName: Ally_Shoulder_L
+      position: {x: -0.0016334387, y: 0.0010771175, z: -0.0016240053}
+      rotation: {x: -0.17644165, y: -0.104956314, z: -0.6382567, w: 0.7419441}
+      scale: {x: 0.99999964, y: 1.0000002, z: 1.0000004}
+    - name: Ally_ShoulderPad_L_end
+      parentName: Ally_ShoulderPad_L
+      position: {x: -0, y: 0.0021485728, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Shoulder_R
+      parentName: Ally_Spine_03
+      position: {x: 0.00077165465, y: 0.0018328894, z: -0.000011063373}
+      rotation: {x: 0.644792, y: 0.37107974, z: -0.5297993, w: 0.40725398}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: Ally_UpperArm_R
+      parentName: Ally_Shoulder_R
+      position: {x: 0.000036609556, y: 0.0011988375, z: -0.00037854048}
+      rotation: {x: 0.20045161, y: 0.087189116, z: 0.09760675, w: -0.9709223}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Ally_LowerArm_R
+      parentName: Ally_UpperArm_R
+      position: {x: -1.11758706e-10, y: 0.0032649238, z: 0.0000000012270175}
+      rotation: {x: -0.0022461559, y: -0.031224206, z: -0.07174587, w: -0.9969316}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000004}
+    - name: Ally_Hand_R
+      parentName: Ally_LowerArm_R
+      position: {x: 6.170012e-11, y: 0.0020014325, z: 0.0000000010244844}
+      rotation: {x: -0.001016725, y: -0.0012339912, z: -0.06331414, w: 0.9979924}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1}
+    - name: Ally_Hand_R_end
+      parentName: Ally_Hand_R
+      position: {x: -0, y: 0.0017817136, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_ShoulderPad_R
+      parentName: Ally_Shoulder_R
+      position: {x: 0.0016334393, y: 0.0010771181, z: -0.0016240064}
+      rotation: {x: -0.17644167, y: 0.10495624, z: 0.63825667, w: 0.74194413}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.99999994}
+    - name: Ally_ShoulderPad_R_end
+      parentName: Ally_ShoulderPad_R
+      position: {x: -0, y: 0.0021485728, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_UpperLeg_L
+      parentName: Ally_Hips
+      position: {x: -0.0011547962, y: 0.0010289501, z: -0.0003103619}
+      rotation: {x: -0.012200261, y: 0.078136355, z: 0.99669224, w: 0.018721623}
+      scale: {x: 0.99999875, y: 0.99999946, z: 0.9999751}
+    - name: Ally_LowerLeg_L
+      parentName: Ally_UpperLeg_L
+      position: {x: -3.5506674e-11, y: 0.0031324767, z: -1.16415315e-11}
+      rotation: {x: -0.081008054, y: -0.021734718, z: 0.0025360656, w: 0.9964732}
+      scale: {x: 1, y: 1.0000005, z: 0.9999995}
+    - name: Ally_Foot_L
+      parentName: Ally_LowerLeg_L
+      position: {x: -8.2654876e-11, y: 0.0038351768, z: 0}
+      rotation: {x: 0.72282743, y: 0.014747234, z: 0.008695065, w: 0.6908165}
+      scale: {x: 1.0000006, y: 1.0000001, z: 0.99999976}
+    - name: Ally_Foot_L_end
+      parentName: Ally_Foot_L
+      position: {x: -0, y: 0.0025791035, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_UpperLeg_R
+      parentName: Ally_Hips
+      position: {x: 0.0011547961, y: 0.0010289501, z: -0.00031036223}
+      rotation: {x: 0.014809565, y: 0.07818502, z: 0.9966569, w: -0.018517017}
+      scale: {x: 0.99999815, y: 0.99999917, z: 0.9999748}
+    - name: Ally_LowerLeg_R
+      parentName: Ally_UpperLeg_R
+      position: {x: 6.170012e-11, y: 0.0031324755, z: -6.0535965e-11}
+      rotation: {x: -0.08094434, y: 0.046074044, z: -0.0040908526, w: 0.99564475}
+      scale: {x: 0.99999917, y: 1.0000006, z: 1.000001}
+    - name: Ally_Foot_R
+      parentName: Ally_LowerLeg_R
+      position: {x: 1.618173e-10, y: 0.0038351764, z: 0}
+      rotation: {x: 0.72284496, y: -0.029813737, z: 0.0070754695, w: 0.69033056}
+      scale: {x: 0.99999946, y: 1.0000006, z: 0.99999946}
+    - name: Ally_Foot_R_end
+      parentName: Ally_Foot_R
+      position: {x: -0, y: 0.0025791035, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Elbow_L
+      parentName: Ally_Root
+      position: {x: -0.0050150356, y: -0.0031344192, z: -0.01287887}
+      rotation: {x: -0.50745493, y: -0.4893049, z: 0.5401368, w: 0.45969826}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: Ally_Elbow_L_end
+      parentName: Ally_Elbow_L
+      position: {x: -0, y: 0.0020739115, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Elbow_R
+      parentName: Ally_Root
+      position: {x: 0.0050150356, y: -0.0031344213, z: -0.012878869}
+      rotation: {x: -0.5074546, y: 0.48930484, z: -0.54013723, w: 0.45969823}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.9999999}
+    - name: Ally_Elbow_R_end
+      parentName: Ally_Elbow_R
+      position: {x: -0, y: 0.0020739115, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Foot_IK_L
+      parentName: Ally_Root
+      position: {x: -0.0014069999, y: 0.0012771314, z: -0.0005190293}
+      rotation: {x: 0.00000015123362, y: 1, z: 0.00000023841858, w: 0.00000007549791}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Ally_Knee_L
+      parentName: Ally_Foot_IK_L
+      position: {x: -0.00012933009, y: 0.0034800058, z: 0.0038289784}
+      rotation: {x: 0.7095233, y: -0.008169114, z: 0.026645914, w: 0.70413065}
+      scale: {x: 0.99999964, y: 0.9999996, z: 0.99999934}
+    - name: Ally_Knee_L_end
+      parentName: Ally_Knee_L
+      position: {x: -0, y: 0.0025016575, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Foot_IK_R
+      parentName: Ally_Root
+      position: {x: 0.0014069993, y: 0.0012771308, z: -0.00051902886}
+      rotation: {x: 0.00000015123362, y: 1, z: 0.00000023841858, w: 0.00000007549791}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Ally_Knee_R
+      parentName: Ally_Foot_IK_R
+      position: {x: 0.00012933022, y: 0.0034800058, z: 0.0038289784}
+      rotation: {x: 0.7095233, y: 0.008169093, z: -0.026645923, w: 0.70413065}
+      scale: {x: 0.99999964, y: 0.9999996, z: 0.99999934}
+    - name: Ally_Knee_R_end
+      parentName: Ally_Knee_R
+      position: {x: -0, y: 0.0025016575, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Hand_IK_L
+      parentName: Ally_Root
+      position: {x: -0.0072574196, y: 0.0018468762, z: -0.013730435}
+      rotation: {x: 0.00000008178435, y: -0.00000033756615, z: 0.7071067, w: 0.70710695}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1.0000001}
+    - name: Ally_Hand_IK_L_end
+      parentName: Ally_Hand_IK_L
+      position: {x: -0, y: 0.002648127, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Hand_IK_R
+      parentName: Ally_Root
+      position: {x: 0.007257422, y: 0.0018468723, z: -0.013730434}
+      rotation: {x: 0.00000024815915, y: -0.000000007622608, z: -0.70710695, w: 0.7071067}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Ally_Hand_IK_R_end
+      parentName: Ally_Hand_IK_R
+      position: {x: -0, y: 0.002648127, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Head_IK
+      parentName: Knight_Armature
+      position: {x: -1.1944985e-17, y: -0.00024163972, z: 0.01914826}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ally_Head_IK_end
+      parentName: Ally_Head_IK
+      position: {x: -0, y: 0.0027774118, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Knight
+      parentName: Knight_01(Clone)
+      position: {x: -0, y: 1.297327e-23, z: -7.962936e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9fa9628365fad0d4195893a8cb17fd38,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

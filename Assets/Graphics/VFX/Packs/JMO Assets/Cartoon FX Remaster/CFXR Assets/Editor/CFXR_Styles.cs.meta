@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Graphics/VFX/Packs/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_Styles.cs.meta
+guid: 26306333afc273640814fd7a7b3968e0
+timeCreated: 1501149213
+========
+guid: 4fb4c15e772a1cc4baecc7a958bf9cc7
+timeCreated: 1486392341
+>>>>>>>> models:Assets/Graphics/VFX/Packs/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_MaterialInspector.cs.meta
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
